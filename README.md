@@ -1,0 +1,2 @@
+# Face Recognition
+FaceDetect is an educational project designed as an Android application. Developed in Java, it incorporates the OpenCV library to implement basic facial recognition features. Its user-friendly interface aims to demonstrate the concept of integrating computer vision technologies into mobile applications. FaceDetect serves as a practical exploration into the potential of mobile-based facial recognition for students and enthusiasts in the field.
